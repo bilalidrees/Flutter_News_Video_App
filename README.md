@@ -1,16 +1,7 @@
-# samma_tv
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![index](https://user-images.githubusercontent.com/36483283/148641113-fe1a7f62-12fb-4511-806a-5713fa27b1b1.jpg)
+![v](https://user-images.githubusercontent.com/36483283/148641114-f91a1d98-6760-41cf-a199-d7999c40383e.jpg)
+![w](https://user-images.githubusercontent.com/36483283/148641115-e980daaf-c6cf-47f5-a17e-d3a95d65c206.jpg)
+![a](https://user-images.githubusercontent.com/36483283/148641116-8964d67a-53cc-4765-8857-150f1c96b47e.jpg)
+![c](https://user-images.githubusercontent.com/36483283/148641117-fef40e5b-cb11-40ed-8350-52608753bd3b.jpg)
+![dx](https://user-images.githubusercontent.com/36483283/148641118-50f4992b-2459-44d4-8f9f-86fe663c937b.jpg)
+![h](https://user-images.githubusercontent.com/36483283/148641120-d19a1b80-66e5-4f37-a878-b3d5eb8a137d.jpg)
